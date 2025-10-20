@@ -41,7 +41,7 @@ pip install pandas
 
 ```
 project-root/
-├─ reader.py        # skrip utama (kode yang kamu kirimkan)
+├─ read.py        
 ├─ README.md        # file dokumentasi ini
 └─ data/
    └─ email.csv     # contoh file CSV
